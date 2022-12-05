@@ -1,0 +1,16 @@
+_commit: b09acf1
+_src_path: /home/pierre/dev/copier/yew
+author_email: pierre@marijon.fr
+author_name: Pierre Marijon
+ci: github
+copyright_date: '2023'
+copyright_holder: Pierre Marijon
+copyright_holder_email: pierre@marijon.fr
+copyright_license: MIT
+forge_host: github.com
+forge_host_custom: null
+forge_namespace: natir
+forge_repo_name: linktree
+msrv: '1.65'
+project_description: A json configurable linktree
+project_name: linktree

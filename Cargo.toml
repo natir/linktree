@@ -1,0 +1,26 @@
+[package]
+name = "linktree"
+version = "0.1.0"
+authors = ["Pierre Marijon <pierre@marijon.fr>"]
+edition = "2021"
+description = "A json configurable linktree"
+rust-version = "1.65"
+
+homepage = "https://github.com/natir/linktree"
+repository = "https://github.com/natir/linktree"
+documentation = "https://natir.github.io/natir/linktree"
+
+readme = "README.md"
+license-file = "LICENSE"
+keywords = ["yew", "trunk"]
+categories = ["gui", "wasm", "web-programming"]
+
+build = "build.rs"
+
+[dependencies]
+yew = { version = "0.19" }
+
+[build-dependencies]
+reqwest = { version = "0.11", features = ["blocking"] }
+flate2  = { version = "1" }
+tar     = { version = "0.4" }

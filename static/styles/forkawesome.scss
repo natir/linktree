@@ -1,0 +1,27 @@
+@import "forkawesome/variables";
+$fa-font-path: "../fonts";
+@import "forkawesome/mixins";
+@import "forkawesome/functions";
+@import "forkawesome/core";
+@import "forkawesome/larger";
+@import "forkawesome/fixed-width";
+@import "forkawesome/list";
+@import "forkawesome/bordered-pulled";
+@import "forkawesome/animated";
+@import "forkawesome/rotated-flipped";
+@import "forkawesome/stacked";
+@import "forkawesome/icons";
+@import "forkawesome/screen-reader";
+
+@font-face {
+    font-family: 'ForkAwesome';
+    src: url('#{$fa-font-path}/forkawesome/webfont.eot') format('embedded-opentype'),
+    url('#{$fa-font-path}/forkawesome/webfont.woff2') format('woff2'),
+    url('#{$fa-font-path}/forkawesome/webfont.woff') format('woff'),
+    url('#{$fa-font-path}/forkawesome/webfont.ttf') format('truetype'),
+    url('#{$fa-font-path}/forkawesome/webfont.svg') format('svg');
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
