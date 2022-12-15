@@ -181,10 +181,6 @@ pub fn main() -> std::result::Result<(), Error> {
                 "academicons.woff".to_string(),
                 "static/fonts/academicons/webfont.woff".to_string(),
             ),
-            (
-                "academicons.woff2".to_string(),
-                "static/fonts/academicons/webfont.woff2".to_string(),
-            ),
         ]
         .iter()
         .cloned()

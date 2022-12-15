@@ -3,10 +3,10 @@
 @font-face {
     font-family: 'Academicons';
     src: url('../fonts/academicons/webfont.eot') format('embedded-opentype'),
-    url('../fonts/academicons/webfont.woff2') format('woff2'),
-    url('../fonts/academicons/webfont.woff') format('woff'),
-    url('../fonts/academicons/webfont.ttf') format('truetype'),
-    url('../fonts/academicons/webfont.svg') format('svg');
+	 url('../fonts/academicons/webfont.eot'),
+	 url('../fonts/academicons/webfont.svg') format('svg'),
+	 url('../fonts/academicons/webfont.ttf') format('truetype'),
+	 url('../fonts/academicons/webfont.woff') format('woff');
 
     font-weight: normal;
     font-style: normal;
