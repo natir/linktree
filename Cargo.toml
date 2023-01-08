@@ -18,7 +18,8 @@ categories = ["gui", "wasm", "web-programming"]
 build = "build.rs"
 
 [dependencies]
-yew                  = { version = "0.19" }
+yew                  = { version = "0.20", features = ["csr"] }
+yew-router           = { version = "0.17" }
 gloo-net             = { version = "0.2" }
 wasm-bindgen-futures = { version = "0.4.33" }
 serde                = { version = "1", features = ["derive"] }

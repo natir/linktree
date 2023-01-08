@@ -1,0 +1,56 @@
+[
+    {
+        "prefix": "fa",
+        "icon": "twitch",
+        "href": "//www.twitch.tv/cam_doc/",
+        "text":"Twitch"
+    },
+    {
+        "prefix": "fa",
+        "icon": "twitter",
+        "href": "//www.twitter.com/CamaradeDr/",
+        "text":"Twitter"
+    },
+    {
+        "prefix": "fa",
+        "icon": "mastodon",
+        "href": "//mastodon.xyz/@Natir/",
+        "text":"Mastodon"
+    },
+    {
+        "prefix": "fa",
+        "icon": "instagram",
+        "href": "//www.instagram.com/camarade_docteur/",
+        "text":"Instagram"
+    },
+    {
+        "prefix": "fa",
+        "icon": "github",
+        "href": "//github.com/natir/",
+        "text":"Github"
+    },
+    {
+        "prefix": "fa",
+        "icon": "user",
+        "href": "//pierre.marijon.fr/",
+        "text": "Scientific homepage"
+    },
+    {
+        "prefix": "fa",
+        "icon": "book",
+        "href": "//blog.pierre.marijon.fr/",
+        "text": "Scientific blog"
+    },
+    {
+        "prefix": "fa",
+        "icon": "twitter",
+        "href": "//twitter.com/pierre_marijon/",
+        "text": "Twitter pro"
+    },
+    {
+        "prefix": "ai",
+        "icon": "orcid",
+        "href": "//orcid.org/0000-0002-6694-6873",
+        "text": "ORCID"
+    }
+]
